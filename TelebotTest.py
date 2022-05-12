@@ -2,9 +2,7 @@ import telebot
 
 import time
 
-# print(time.asctime())
 
-# 5246096403:AAGagrEEsLu4IKj7cDZmV9YZ11s_cNIrmjA
 bot = telebot.TeleBot("5246096403:AAGagrEEsLu4IKj7cDZmV9YZ11s_cNIrmjA")
 
 
